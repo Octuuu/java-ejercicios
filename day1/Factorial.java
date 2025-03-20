@@ -16,4 +16,4 @@ public class Factorial {
         }
         return num * calcularFactorial(num - 1);
     }
-}
+}   
